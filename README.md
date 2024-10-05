@@ -1,5 +1,3 @@
-# diy-mechanical-keyboard
-
 # Building a Mechanical Keyboard from Scratch
 
 ## 1. Ergopad for Hand Mapping
