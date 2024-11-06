@@ -1,4 +1,8 @@
-## Soldering Tools
+# Soldering Tools
+
+In the following section you can find a bill of material of the tools you need to buy to start soldering a shine new keyboard.
+
+## Soldering Iron
 
 - **Basic Soldering Iron**: Costs around 20 euros. These typically have a fixed temperature, usually between 300°C and 400°C.
 - **Advanced Soldering Iron**: Offers temperature regulation for more precise control.
