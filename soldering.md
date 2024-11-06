@@ -20,7 +20,7 @@ On **AliExpress**, the **Yihua** brand (from China) is recommended for quality s
 
 Some soldering wires include **flux** inside. While many don't use additional flux, it's highly recommended for small components as it helps the solder adhere to pins and spread across the PCB. Flux can be applied using a syringe, brush, or needle.
 
-## Wire Diameter
+### Wire Diameter
 
 - **For small components**: Use a wire diameter of **0.5mm**.
 - **For larger components (e.g., switch sockets)**: Use **1.0mm** wire.
